@@ -28,10 +28,10 @@ HAT-compatible 40-pin header footprint (unpopulated)
 
 H.264, MPEG-4 decode (1080p30); H.264 encode (1080p30)
 
-OpenGL ES 1.1, 2.0 graphics
+Raspberry Pi 4 model B (used for original CAR-BAC)
 
-Micro USB power
+Broadcom BCM2711, Quad core Cortex-A72 (ARM v8) 64-bit SoC @ 1.5GHz
 
-Composite video and reset pins via solder test points
+4GB  LPDDR4-3200 SDRAM 
 
-65mm x 30mm
+2.4 GHz and 5.0 GHz IEEE 802.11ac wireless, Bluetooth 5.0, BLE and Gigabit Ethernet
